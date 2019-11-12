@@ -1,4 +1,5 @@
-#AWS X Wordpress
+# Deployment Wordpress in AWS
+
 Belajar Mengembangkan dan Menjalankan Wordpress pada Amazon Web Service (AWS)
 
 Wordpress dengan menggunakan AWS terlebih dahulu perlu untuk membuat server Web dengan EC2 dan Database Amazon RDS.  Server web Apache dengan PHP, dan membuat database MySQL. Server web berjalan pada instance Amazon EC2 menggunakan Amazon Linux, dan database MySQL adalah instance Amazon RDS MySQL DB. Baik instance Amazon EC2 dan instance Amazon RDS DB dijalankan dalam virtual private cloud (VPC) yang didasarkan pada layanan Amazon VPC.

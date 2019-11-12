@@ -246,3 +246,5 @@ Sumber Referensi :
 1. https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/TUT_WebAppWithRDS.html 
 2. https://wordpress.org/latest.zip
 3. https://wordpress.org/support/article/how-to-install-wordpress/
+
+# ^-^
